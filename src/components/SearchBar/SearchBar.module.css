@@ -12,7 +12,7 @@
 
 .input:focus {
   border-width: 1px;
-  border: 1px dotted;
-  border-color: rgb(255, 38, 237);
-  /* transition: border-color 200ms ease-in-out; */
+  border: 5px solid;
+  border-color: black;
+
 }
